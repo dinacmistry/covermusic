@@ -7,7 +7,10 @@ As part of the course, we were tasked with finding a network to study and analyz
 
 This project looks at a network of musical artists and groups connected to each other via cover songs, in which links represent one artist or group who has covered the song of another artist or group. The data was scraped from whosampled.com (at the time they didn't have an API BUT use their API). Now, remember how I said that The Beatles played a lot of cover songs in their early career in Hamburg? Well, in today's parlance, The Beatles of the late 1950s era would be viewed as a cover band. However, in my opinion, it's this time they spent playing other popular songs from popular artists and honing their own skills as a band, which allowed them to develop as musicians and develop their own on stage presence. Being a cover band early on isn't so bad if you end with success like The Beatles. 
 
-With this in mind, I wanted to see whether other musicians followed similar paths to success. Or rather, what did other popular artists in the network do? Were they also cover artists, or were they simply the ones whose material were covered? Along the way, I noticed some odd features which seem to be correlated with the introduction of a copyright law and widespread Internet use. This projection is closed for now while I complete my PhD in Complex Networks and Computational Epidemiology, but free feel to send me a message if you're interested in anything I've shown here or have questions. 
+With this in mind, I wanted to see whether other musicians followed similar paths to success. Or rather, what did other popular artists in the network do? Were they also cover artists, or were they simply the ones whose material were covered? Along the way, I noticed some odd features which seem to be correlated with the introduction of a copyright law and widespread Internet use. 
+
+This projection is on hold for now while I complete my PhD in Complex Networks and Computational Epidemiology, but free feel to send me a message if you're interested in anything I've shown here or have questions. 
+
 
 
 Cheers!
