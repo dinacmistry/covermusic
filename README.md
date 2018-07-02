@@ -9,7 +9,7 @@ This project looks at a network of musical artists and groups connected to each 
 
 Now, remember how I said that The Beatles played a lot of cover songs in their early career in Hamburg? Well, in today's parlance, The Beatles of the late 1950s era would be viewed as a cover band. However, in my opinion, it's this time they spent playing other popular songs from more popular artists and honing their own skills as a band which allowed them to develop as musicians and cultivate their own on-stage presence. Surely, being a cover band early on isn't so bad if you end up with success like The Beatles. With this in mind, I wanted to see whether other musicians followed similar paths to success. Or rather, what did other popular artists in the network do? Were they also cover artists, or were they simply the ones whose material were covered? Along the way, I noticed some odd features which seem to be correlated with the introduction of a copyright law in the US and the widespread adoption of Internet use. 
 
-This project is on hold for now while I complete my Ph.D. in Physics (actually Complex Networks and Computational Epidemiology, however there was no department just for that when I started). Feel free to send me a message if you're interested in anything I've shown here or have questions. 
+This project is on hold for now while I complete my Ph.D. in Physics (actually Complex Networks and Computational Epidemiology, but I digress). Feel free to send me a message if you're interested in anything I've shown here or have questions. 
 
 
 
